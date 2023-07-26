@@ -33,7 +33,6 @@ O projeto utiliza o RabbitMQ como sistema de mensageria para processar as avalia
 
 ## Descrição do Projeto
 
-```
 
 ### Classes Principais
 
