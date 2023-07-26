@@ -1,11 +1,8 @@
 package br.com.alurafood.pedidos.amqp;
 
 import br.com.alurafood.pedidos.dto.PagamentoDto;
-import org.springframework.amqp.core.Message;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
-
-import javax.xml.bind.SchemaOutputResolver;
 
 @Component
 public class PagamentoListener {
